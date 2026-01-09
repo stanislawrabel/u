@@ -5,7 +5,7 @@ set -e
 export DEBIAN_FRONTEND=noninteractive
 export TERM=xterm
 
-set -e
+termux-setup-storage
 
 echo "📦 Updating Termux and installing dependencies..."
 yes "" | pkg update -y
