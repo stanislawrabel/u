@@ -13,7 +13,6 @@ YELLOW_BG="\033[43m"
 GREEN_BG="\033[42m"
 RED_BG="\033[41m"
 RESET="\033[0m"
-="\033[0m"
 
 
 
